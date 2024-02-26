@@ -4,7 +4,6 @@
 
 - Patricia Ternes
 - Author B
-- Author C
 
 ## Description
 
