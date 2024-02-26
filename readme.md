@@ -25,8 +25,8 @@ Add a second change via VScode.
 
 ## Pull Request Test
 
-- Create new branch in local machine
-- Do some changes
-- Push changes (new branch) to github
-- Do PR
-- Merge/Delete
+1. Create new branch in local machine
+2. Do some changes
+3. Push changes (new branch) to github
+4. Do PR
+5. Merge/Delete
