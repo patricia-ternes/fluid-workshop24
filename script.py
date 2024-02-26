@@ -8,7 +8,7 @@ class Foo(object):
         return y**2
 
     def g(self, x: int, y: int = 42) -> int:
-        return x - -y
+        return x - y
 
 
 def funcA(a):
