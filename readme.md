@@ -4,7 +4,7 @@
 
 - Patricia Ternes
 - Author B
-- Author C
+- Author C (check if wants to work)
 
 ## Description
 
