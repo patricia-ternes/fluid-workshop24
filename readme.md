@@ -22,3 +22,11 @@ Our experiment is performed as follows:
 Add a change via VScode.
 
 Add a second change via VScode.
+
+## Pull Request Test
+
+- Create new branch in local machine
+- Do some changes
+- Push changes (new branch) to github
+- Do PR
+- Merge/Delete
