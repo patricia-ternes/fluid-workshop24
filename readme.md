@@ -30,3 +30,7 @@ Add a second change via VScode.
 3. Push changes (new branch) to github
 4. Do PR
 5. Merge/Delete
+
+## Requirements
+
+This code runs in windows/linux
