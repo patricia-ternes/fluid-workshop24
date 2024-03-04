@@ -1,2 +1,2 @@
-def adivb(a,b):
-    return a/b
+def adivb(a, b):
+    return a / b
