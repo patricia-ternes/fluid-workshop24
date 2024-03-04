@@ -1,6 +1,7 @@
+import function.calc as fc
 
 def test_negatives():
-    assert adivb(-10, -5) == 2, "Two negative should return a positive"
+    assert fc.adivb(-10, -5) == 2, "Two negative should return a positive"
 
 
 # assert adivb(-9, 3) == -3, "One positive, one negative should return a negative"
